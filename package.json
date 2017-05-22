@@ -1,0 +1,9 @@
+{
+  "name": "bulmax",
+  "version": "0.1.0",
+  "description": "React components for Bulma",
+  "main": "index.js",
+  "repository": "https://github.com/nownabe/bulmax.git",
+  "author": "nownabe <nownabe@gmail.com>",
+  "license": "MIT"
+}
